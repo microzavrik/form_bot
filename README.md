@@ -24,7 +24,7 @@ cd form_bot
 
 #### Install Dependencies:
 ```
-pip install -r requirements.txt
+pip install pytelegrambotapi
 ```
 
 #### Running the Bot:
