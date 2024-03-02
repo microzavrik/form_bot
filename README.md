@@ -1,4 +1,4 @@
-Shop Bot 🛍️🤖
+### Shop Bot 🛍️🤖
 
 Overview:
 Shop Bot is your ultimate assistant for browsing products and sending requests to the administrator effortlessly through a predefined form. Users can explore the product assortment and submit inquiries seamlessly via the bot interface. On the administrator's end, features for communication, evaluating user requests, and managing interactions efficiently are readily available.
